@@ -1,2 +1,5 @@
 data/yelp_credentials.json
 data/inspections.csv
+wheels/
+notebooks/_map.html
+notebooks/.ipynb_checkpoints
